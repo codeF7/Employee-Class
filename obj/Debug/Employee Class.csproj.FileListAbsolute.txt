@@ -1,0 +1,9 @@
+c:\users\gabriel\documents\visual studio 2012\Projects\Employee Class\Employee Class\bin\Debug\Employee Class.exe.config
+c:\users\gabriel\documents\visual studio 2012\Projects\Employee Class\Employee Class\bin\Debug\Employee Class.exe
+c:\users\gabriel\documents\visual studio 2012\Projects\Employee Class\Employee Class\bin\Debug\Employee Class.pdb
+c:\users\gabriel\documents\visual studio 2012\Projects\Employee Class\Employee Class\obj\Debug\Employee Class.csprojResolveAssemblyReference.cache
+c:\users\gabriel\documents\visual studio 2012\Projects\Employee Class\Employee Class\obj\Debug\Employee_Class.Properties.Resources.resources
+c:\users\gabriel\documents\visual studio 2012\Projects\Employee Class\Employee Class\obj\Debug\Employee Class.csproj.GenerateResource.Cache
+c:\users\gabriel\documents\visual studio 2012\Projects\Employee Class\Employee Class\obj\Debug\Employee Class.exe
+c:\users\gabriel\documents\visual studio 2012\Projects\Employee Class\Employee Class\obj\Debug\Employee Class.pdb
+c:\users\gabriel\documents\visual studio 2012\Projects\Employee Class\Employee Class\obj\Debug\Employee_Class.Form1.resources
